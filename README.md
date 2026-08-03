@@ -6,4 +6,4 @@ It includes two SQL views that analyze sales data at the product and customer le
 covering key metrics like total sales, order volume, customer segments, recency, and 
 average revenue, built for use in reporting, BI dashboards, and further data exploration.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT]
